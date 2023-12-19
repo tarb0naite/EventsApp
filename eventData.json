@@ -1,0 +1,142 @@
+[
+    {"event_id": 2023,
+    "month_name": "November",
+    "events": [
+    {
+        "event_day": 4,
+        "event_name": "Nightride Panevėžys 2023",
+        "event_time": "17:00 - 20:00",
+        "event_description": "Sveiki automanai!\nPanevėžio Peugeot klubas kartu su Lithuanian Streets klubu kviečia į Nightride pasivažinėjimą Panevėžio mieste!\nTai ne tik pasivažinėjimas, o ir veiksmas su apdovanojimais:\nUžduotys\nKonkursai\nLoterijos\nApdovanojimai",
+        "event_image": "https://autorenginiai.lt/wp-content/uploads/2023/10/nightride-panevezys-2023-autorenginiai-lt-scaled.jpg"
+       
+    },
+    {
+        "event_day": 11,
+        "event_name": "#DriftinkPats Vilniuje 11.11",
+        "event_time": "10:00 - 18:00",
+        "event_image": "https://autorenginiai.lt/wp-content/uploads/2020/10/driftink-pats-vilniuje-10-10-autorenginiai-lt.jpg",
+        "event_description": "Kol orai leidžia ir noro yra, tol DriftLand’e bus veiksmo, #DriftTaxi ir ką pamatyti! Ta proga kviečiame\nprisijunkti prie mūsų Lapkričio 12d. turiningai praleisti sekmadienio stipriausioje Drifto treniruotėje Vilniuje!"
+    },
+    {
+        "event_day": 11,
+        "event_name": "#BMW E53/70 MEET & RIDE",
+        "event_time": "14:00 - 17:00",
+        "event_image": "https://autorenginiai.lt/wp-content/uploads/2023/11/bmw-e53-70-meet-n-ride-autorenginiai-lt.jpg",
+        "event_description": "Prisiminimams iškilus ir nostalgiją pajautus – pagalvojome, kad laikas tai pakartoti tik prijungti ir jaunesnius E70 modelius.” – sako organizatoriai."
+    },
+    {
+        "event_day": 12,
+        "event_name": "#DriftDay 8",
+        "event_time": "11:00 - 16:00",
+        "event_image": "https://autorenginiai.lt/wp-content/uploads/2023/07/driftday-5-autorenginiai-lt-scaled.jpg",
+        "event_description": "Kol orai leidžia ir noro yra, tol DriftLand’e bus veiksmo, #DriftTaxi ir ką pamatyti! Ta proga kviečiame prisijunkti prie mūsų Lapkričio 12d. turiningai praleisti sekmadienio stipriausioje Drifto treniruotėje Vilniuje!"
+    },
+    {
+        "event_day": 15,
+        "event_name": "Automobilių technologijų konferencija PLUG-IN 2023",
+        "event_time": "10:00 - 18:00",
+        "event_image": "https://autorenginiai.lt/wp-content/uploads/2023/11/automobiliu-technologiju-konferencija-plug-in-2023-autorenginiai-lt.jpg",
+        "event_description": "Lapkričio 15-ąją kartu su „Lietuvos metų automobilio“ konkursu „Lietuvos žurnalistų autoklubas“ surengs antrąją viešą automobilių technologijoms skirtą konferenciją „Plug-in 2023“."
+    },
+    {
+        "event_day": 18,
+        "event_name": "Įgūdžių tobulinimas 2023 – Klaipėdos Volvo klubas",
+        "event_time": "11:00 - 17:00",
+        "event_image": "https://autorenginiai.lt/wp-content/uploads/2023/11/igudziu-tobulinimas-2023-klaipedos-volvo-klubas-autorenginiai-lt-scaled.jpg",
+        "event_description": "Kviečiame klubo narius ir svečius į jau tradicija tapusį renginį, skirtą vairavimo slidžia kelio danga įgūdžių tobulinimui.“."
+    },
+    {
+        "event_day": 18,
+        "event_name": "RollingNight’23",
+        "event_time": "20:00 - 23:00",
+        "event_image": "https://autorenginiai.lt/wp-content/uploads/2023/11/rolling-night-23-autorenginiai-lt-scaled.jpg",
+        "event_description": "Klaipėdos E9X Klubas & Memel Ladies kviečia visus automobilių entuziastus susiburti, pasižvalgyti, pabendrauti bei atsigerti skanios kavos✌🏽🖤.“."
+    },
+    {
+        "event_day": 19,
+        "event_name": "Elektrėnų greituminis slalomas – FIGHT #2",
+        "event_time": "10:00 - 17:00",
+        "event_image": "https://autorenginiai.lt/wp-content/uploads/2023/11/elektrenu-greituminis-slalomas-fight-2-autorenginiai-lt.jpg",
+        "event_description": "Elektrėnų greituminis slalomas pačiame Elektrėnų centre!“."
+    },
+    {
+        "event_day": 24,
+        "event_name": "Blitz #16 – Šiurpą kelianti ekspedicija (kart.)",
+        "event_time": "16:30 - 21:30",
+        "event_image": "https://autorenginiai.lt/wp-content/uploads/2023/11/blitz-16-siurpa-kelianti-istorija-ekspedicija-autorenginiai-lt.jpg",
+        "event_description": "Šiurpi istorija, palietusi Lietuvą ir palikusi savo pėdsaką ilgam.“."
+    }
+   ]
+
+},
+{
+    "event_id": 2023,
+    "month_name": "December",
+    "events":[
+      
+            {
+                "event_day": 3,
+                "event_name": "KIA Meet Vilnius",
+                "event_time": "17:00 - 20:00",
+                "event_image": "https://autorenginiai.lt/wp-content/uploads/2023/11/kia-meet-vilnius-autorenginiai-lt.jpg",
+                "event_description": "Labas Kia automobilių esami ar būsimi savininkai!👋🤩"
+            },
+            {
+                "event_day": 9,
+                "event_name": "BLEG Auto Kalėdos",
+                "event_time": "16:30 - 21:30",
+                "event_image": "https://external.fvno7-1.fna.fbcdn.net/emg1/v/t13/16235390480697927934?url=https%3A%2F%2Fautorenginiai.lt%2Fwp-content%2Fuploads%2F2023%2F11%2Fbleg-auto-kaledos-autorenginiai-lt.jpg&fb_obo=1&utld=autorenginiai.lt&stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75&ccb=13-1&oh=06_AbEVeo_HaKbvdFzPdcJzS9VT9KYAEvD3YkHRM7rvONJDPw&oe=655E0DA9&_nc_sid=dbad39",
+                "event_description": "Brrrr... Gruodžio 9 šeštadienis., tikrai atrodo šaltai. Bet tik ne Klaipėdoje! BLEG komanda kvies pasirinkti šilčiausius drabužius, už parankės imti geriausius draugus, ir burtis į didžiausią Kalėdų Pre-Party visoje Žemaitijoje!“."
+            },
+            {
+                "event_day": 3,
+                "event_name": "DRIFT REUNION EXPO 2022 / 2022 Drifto klasės susitikimas",
+                "event_time": "16:30 - 21:30",
+                "event_image": "https://external.fvno7-1.fna.fbcdn.net/emg1/v/t13/4342045077555840760?url=https%3A%2F%2Fautorenginiai.lt%2Fwp-content%2Fuploads%2F2022%2F11%2Fdrift-reunion-expo-2022-2022-drifto-klases-susitikimas-autorenginiai-lt.jpg&fb_obo=1&utld=autorenginiai.lt&stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75&ccb=13-1&oh=06_AbFWBJpWvy2Wt-Hh7AsFRTSoKePWdTJbLHCp_ZjPVeAKEg&oe=655E4399&_nc_sid=dbad39",
+                "event_description": "Brrrr... Gruodžio 9 šeštadienis., tikrai atrodo šaltai. Bet tik ne Klaipėdoje! BLEG komanda kvies pasirinkti šilčiausius drabužius, už parankės imti geriausius draugus, ir burtis į didžiausią Kalėdų Pre-Party visoje Žemaitijoje!“."
+
+            },
+            {
+                "event_day": 3,
+                "event_name": "“AMP Winter Cup” – Round #1",
+                "event_time": "16:30 - 21:30",
+                "event_image": "https://external.fvno7-1.fna.fbcdn.net/emg1/v/t13/14016435403722044398?url=https%3A%2F%2Fautorenginiai.lt%2Fwp-content%2Fuploads%2F2022%2F11%2Famp-winter-cup-1-autorenginiai-lt.jpg&fb_obo=1&utld=autorenginiai.lt&stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75&ccb=13-1&oh=06_AbGmhmKtccoOcKQTUoXzp1UN6scq9Wo8RFcBeLTJoP-kwA&oe=655E62B9&_nc_sid=dbad39",
+                "event_description": [
+                    "Šį šeštadienį lenktyniaujam Auto Moto Parke!",
+                    "Idealios sąlygos važinėtis tiek su sportiniais, tiek su standartiniais automobiliais. Galima naudoti ir dygliuotas sportines padangas ir paprastas","žiemines!"
+                  ]
+            },
+            {
+                "event_day": 10,
+                "event_name": "“AMP Winter Cup” – Round #2",
+                "event_time": "16:30 - 21:30",
+                "event_image": "https://external.fvno7-1.fna.fbcdn.net/emg1/v/t13/15254360517198504000?url=https%3A%2F%2Fautorenginiai.lt%2Fwp-content%2Fuploads%2F2022%2F12%2Famp-winter-cup-2-autorenginiai-lt.jpg&fb_obo=1&utld=autorenginiai.lt&stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75&ccb=13-1&oh=06_AbHdGTP0u_kkPLTQF4yFQo0QugFdSmIwgITwKWsunV9cag&oe=655E6C3E&_nc_sid=dbad39",
+                "event_description": [
+                    "Šį šeštadienį lenktyniaujam Auto Moto Parke!",
+                    "Idealios sąlygos važinėtis tiek su sportiniais, tiek su standartiniais automobiliais. Galima naudoti ir dygliuotas sportines padangas ir paprastas","žiemines!"
+                  ]
+            },
+            {
+                "event_day": 10,
+                "event_name": "Winter track #1 by Varėnos ASK",
+                "event_time": "16:30 - 21:30",
+                "event_image": "https://external.fvno7-1.fna.fbcdn.net/emg1/v/t13/17942359967742123946?url=https%3A%2F%2Fautorenginiai.lt%2Fwp-content%2Fuploads%2F2022%2F12%2Fwinter-track-1-by-varenos-ask-autorenginiai-lt.jpg&fb_obo=1&utld=autorenginiai.lt&stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75&ccb=13-1&oh=06_AbFKyUOjPF1cVww_ixYESivNJcG_hVc7VGw-qieAG0LQpw&oe=655E2911&_nc_sid=dbad39",
+                "event_description": [
+                    "Varėnos ASK susirenka žaislus ir žiemai grįžta namo į Varėną! Paruošėme jums beveik 2 kilometrų ilgio, 20 metrų pločio, ledu padengtą automobilių", "linksmybių trasą – Winter track!"
+                  ]
+            },
+            {
+                "event_day": 18,
+                "event_name": "“AMP Winter Cup” round #3",
+                "event_time": "16:30 - 21:30",
+                "event_image": "https://external.fvno7-1.fna.fbcdn.net/emg1/v/t13/3549513906779056111?url=https%3A%2F%2Fautorenginiai.lt%2Fwp-content%2Fuploads%2F2022%2F12%2Famp-winter-cup-3-autorenginiai-lt.jpg&fb_obo=1&utld=autorenginiai.lt&stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75&ccb=13-1&oh=06_AbG3QwXy0iFxn8tf18ps_0h9Yazx_jX2SVRluY7WwsdDzA&oe=655E7A92&_nc_sid=dbad39",
+                "event_description": [
+                    "Šį šeštadienį lenktyniaujam Auto Moto Parke!",
+                    "Idealios sąlygos važinėtis tiek su sportiniais, tiek su standartiniais automobiliais. Galima naudoti ir dygliuotas sportines padangas ir paprastas","žiemines!"
+                  ]
+            }
+       
+    ]
+}
+
+]
